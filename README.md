@@ -1,5 +1,5 @@
 # easyMQ
-:curly_loop: A way to use media query easily, cross browsing and faster. Without CSS.
+:checkered_flag: A way to use media query easily, cross browsing and faster. Without CSS.
 
 ## Easy to use
 Add to the HTML element, who want to affect the media query, the attribute 
@@ -12,12 +12,18 @@ example
 ```
 
 ## Fully compatible
-Tested on:
-  - IE
+Browser:
+  - Internet Explorer 10
+  - Opera 15
+  - Safari 7.1
   - Google Chrome
   - Firefox
-  - Opera
-  - Safari
+
+Device:
+  - iOS 5.1 (iPhone 4)
+  - Android 4.4 (Samsung s3)
+  
+*(If you want to help the project send issues or pull request with your browser/device testing)*
 
 ## More faster than CSS
 See the chart:
