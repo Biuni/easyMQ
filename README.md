@@ -1,6 +1,13 @@
 # easyMQ
 :checkered_flag: A way to use media query easily, cross browsing and faster. Without CSS.
 
+## Install
+Add to your code
+```html
+<script src="easyMediaQuery.js"></script>
+<script>new easyMQ();</script>
+```
+
 ## Easy to use
 Add to the HTML element, who want to affect the media query, the attribute 
 ```
@@ -37,3 +44,6 @@ See the chart:
   - *1000 items*: response in __13.95ms__
 
 ![Response Test](https://s13.postimg.org/lh3fw5a93/test.png)
+
+## Version
+easyMQ 0.0.1
